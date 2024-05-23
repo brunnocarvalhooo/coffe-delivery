@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'baloo2-variableFont_wght';
+  src: url('./Baloo_2/baloo2-variableFont_wght.ttf');
+}
+
+@font-face {
+  font-family: 'roboto-regular';
+  src: url('./avenir-medium.otf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'roboto-bold';
+  src: url('./avenir-black.otf');
+  font-weight: 700;
+}

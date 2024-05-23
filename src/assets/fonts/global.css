@@ -1,0 +1,8 @@
+* {
+  font-family: 'Baloo 2', 'Roboto' !important;
+  src: url('./Baloo_2/baloo2-variableFont_wght.ttf');
+}
+
+.material-icons {
+  font-family: 'Material Icons' !important;
+}
